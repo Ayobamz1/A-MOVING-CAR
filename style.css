@@ -73,7 +73,7 @@
     transform: translateY(-1px);
   }
   50% {
-    transform: translateY(-1px);
+    transform: translateY(1px);
   }
   100% {
     transform: translateY(-1px);
@@ -110,12 +110,12 @@
   }
 }
 
-.walking1 {
+.walking {
   height: 200px;
-  width: 70px;
+  width: 77.5px;
   display: block;
   background-image: url(Images/a_yellow_person__1_-removebg-preview.png);
-  background-size: 619px 200px;
+  background-size: 600px 200px;
   position: absolute;
   left: 0;
   bottom: 200px;
